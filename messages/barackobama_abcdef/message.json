@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Barack Obama"
+    },
+    {
+      "name": "Taylor Swift"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Taylor Swift",
+      "timestamp_ms": 1532860261374,
+      "content": "Sure, I'll see you tonight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barack Obama",
+      "timestamp_ms": 1532859608697,
+      "content": "I'm great. I've just got a new job, why don't we go to cafes and have a talk?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Taylor Swift",
+      "timestamp_ms": 1532859595382,
+      "content": "Hi. How's it going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barack Obama",
+      "timestamp_ms": 1506949721076,
+      "content": "Hello there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Taylor Swift",
+      "timestamp_ms": 1506935749217,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Barack Obama",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "barackobama _abcdef"
+}

@@ -1,0 +1,63 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  display:inline-block;
+  clear: both;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 2px;
+  font-family: Helvetica, Arial, sans-serif;
+  max-width: 80%;
+}
+
+img {
+	max-width: 40%;
+  height: auto;
+}
+
+.date {
+	display:block;
+	max-width: none;
+	color: rgba(0, 0, 0, .40);
+    font-size: 15px;
+    text-align: center;
+}
+
+.your {
+  background: #eee;
+  float: left;
+}
+
+.mine {
+  float: right;
+  background: #0084ff;
+  color: #fff;
+}
+
+.mine-img {
+	float: right;
+}
+
+.your-img {
+	float: left;
+}
+
+.your + .mine {
+  border-bottom-right-radius: 5px;
+}
+
+.mine + .mine{
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.mine:last-of-type {
+  border-bottom-right-radius: 30px;
+}
+
+.date {
+}
